@@ -1,0 +1,65 @@
+body
+{
+    background-color: rgb(4, 139, 4);
+}
+.main
+{
+    margin-top: 40px;
+    border: 15px solid rgb(159, 229, 238);
+    border-radius: 30px;
+    
+    display: inline-flexbox;
+    padding: 30px 42px 30px 100px;
+    background-color: rgba(240, 255, 240, 0.973);
+    
+
+}
+input
+{
+    border: 2px solid black;
+    padding: 5px ;
+    border-radius: 60px ;
+
+}
+.nst
+{
+  text-align: center;
+  color: rgb(247, 99, 190);
+
+}
+h1
+{
+    text-align: center;
+    color: rgb(36, 14, 116);
+
+
+}
+button
+{
+    text-align: center;
+    border: 0.5px solid ;
+    padding: 3px;
+    border-radius: 2px;
+    margin-left: 25px;
+}
+#ad
+{
+    margin-left: 25px;
+    background-color: rgb(182, 30, 63);
+    color: rgb(206, 139, 51);
+}
+#b1
+{
+    background-color: rgb(10, 87, 150);
+    color: #000;
+}
+#b2
+{
+    background-color: gold;
+    color: indigo;
+}
+#b3
+{
+    background-color: rgb(166, 168, 17);
+    color: rgb(143, 19, 19);
+}
